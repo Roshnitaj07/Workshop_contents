@@ -1,0 +1,8 @@
+1. LLD for Player by taking reference of the following link.
+http://hobbes.allgolocal.com/index.php?n=Process.ProcessHome 
+Low Level Design (LLD) Template.
+2. Create Use case document, by writing down the use cases.
+3. Create API interfaces for your modules.
+
+Later Assignment.
+1. Create proper design material to address real time audio processing. 
